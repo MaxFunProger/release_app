@@ -1,0 +1,29 @@
+.light_col{
+    color: #C0C0C0;
+}
+.font_size{
+    font-size: 25pt;
+}
+.move_right{
+    margin-left: 85px;
+}
+.image_text{
+    display: inline-block;
+}
+.mover{
+    margin-left: 8px;
+}
+.flexer{
+    display: inline-flex;
+}
+table {width: 100%}
+th {
+    height: 35px;
+    background-color: #D3D3D3;
+    text-align: center;
+}
+td{
+    height: 60px;
+    text-align: center;
+}
+
